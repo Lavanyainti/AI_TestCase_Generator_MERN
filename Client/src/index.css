@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+::-webkit-scrollbar{
+  display: none;
+}
+
+@theme{
+  --color-primary: #5044E5;
+  --color-secondary:	#1a1a1a;
+}
