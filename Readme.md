@@ -39,3 +39,6 @@ BACKEND_URL=http://localhost:5000
 -**Frontend Folder**: Client
 -**Backend Folder**: Server
 -**Forntend & Backend Command** : npm run dev
+
+## Live Demo
+[click here](https://beamish-caramel-667a06.netlify.app)
